@@ -1,0 +1,11 @@
+.idea/
+*.iml
+
+# Maven
+target/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
